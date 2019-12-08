@@ -29,3 +29,12 @@ Delivery Optimisation
 minimise files -
   style sheets into one - js into one
   - webpack bundle
+
+optimise in browser
+  - html DOM tree
+  render tree - HTML,CSS,JS
+
+optimise critical render path
+  html - tag 
+  --- js + images last
+  - blocking content at base before /body end tag
