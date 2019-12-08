@@ -13,3 +13,19 @@ images // =>
   different size image for displays
   @media screen and (max-width:500px) { }
   @media screen and (min-width:300px) { }
+
+  Developer Tools - Network tab
+  check if resources are loading correctly on page
+  - if using route check homepage is not refreshing completely
+
+  CDNs - imigx
+  - allows fast access through imigx server - link direct to their site
+  remove image metadata
+  - remove exif from image
+
+Delivery Optimisation
+- use flexbox, css-gid no external libraries if available as native
+
+minimise files -
+  style sheets into one - js into one
+  - webpack bundle
