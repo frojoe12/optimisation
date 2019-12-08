@@ -6,4 +6,10 @@ text // =>
   webpack - minimise
 images // => 
   GIF, PNG, JPG, SVG
+  compression
+  - TinyPNG
+  - JpegOptimizer
   
+  different size image for displays
+  @media screen and (max-width:500px) { }
+  @media screen and (min-width:300px) { }
